@@ -1,0 +1,6 @@
+{
+    "name": "asus/balai-besar-tekstil",
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
